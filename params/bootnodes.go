@@ -23,7 +23,7 @@ import "github.com/RealMagaCoin/Maga/common"
 var MainnetBootnodes = []string{
 	// Magacoin Go Bootnodes
 	"enode://6b66310e3e26568ef13666d624dc06fe8ff29c38320d7085dc990d371750d080cfe58ebe7d3fa8c181363bb6e132f66294f12857e21a38a7ca19ae4a7362dea5@44.229.184.250:30303", // bootnode-1
-	"enode://50b9cc37011e6057d55664f80572e8e77f62c475098889b5927de5ec4ef200cc44d5e8572ff310696f4899c356c839840010e02ac2a561532227b12d09b49cdf@44.196.63.170:30303",  // bootnode-2
+	"enode://324285d98f18607fcc803ee56693cc1889794bcde3af12fd5ad0ed0519d105b2e1b4d9dfee3708cdb907cedfaa30f43c342ce9df1760f813caaf2405d6ae4e8a@44.196.63.170:30303",  // bootnode-2
 }
 
 // RopstenBootnodes are the enode URLs of the P2P bootstrap nodes running on the

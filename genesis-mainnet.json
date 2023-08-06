@@ -11,13 +11,13 @@
     "istanbulBlock": 0,
     "berlinBlock": 0,
     "londonBlock": 0,
-    "freedomBlock": 47500000,
+    "freedomBlock": 50000000,
     "ethash": {}
   },
   "nonce": "0x0",
   "difficulty": "0x1",
   "gasLimit": "0x1C9C380",
-  "timestamp": "0x64C93AEB",
+  "timestamp": "0x64D008AC",
   "coinbase": "0x0000000000000000000000000000000000000000",
   "extraData": "0x0000000000000000000000000000000000000000000000000000000000000000",
   "alloc": {

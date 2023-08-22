@@ -15,7 +15,7 @@ require (
 	github.com/consensys/gnark-crypto v0.9.1-0.20230105202408-1a7a29904a7c
 	github.com/davecgh/go-spew v1.1.1
 	github.com/deckarep/golang-set/v2 v2.1.0
-	github.com/docker/docker v18.09.8
+	github.com/docker/docker v17.12.0-ce-rc1.0.20190717160951-456712c5b8d9+incompatible
 	github.com/dop251/goja v0.0.0-20230122112309-96b1610dd4f7
 	github.com/edsrzf/mmap-go v1.0.0
 	github.com/fatih/color v1.7.0
@@ -60,9 +60,9 @@ require (
 	golang.org/x/crypto v0.1.0
 	golang.org/x/mobile v0.0.0-20190719004257-d2bd2a29d028
 	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
-	golang.org/x/sys v0.2.0
-	golang.org/x/term v0.1.0
-	golang.org/x/text v0.4.0
+	golang.org/x/sys v0.5.0
+	golang.org/x/term v0.5.0
+	golang.org/x/text v0.7.0
 	golang.org/x/time v0.0.0-20210220033141-f8bda1e9f3ba
 	golang.org/x/tools v0.1.12
 	gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce
@@ -107,5 +107,6 @@ require (
 	google.golang.org/protobuf v1.26.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
+	gotest.tools v2.2.0+incompatible // indirect
 	rsc.io/tmplfunc v0.0.3 // indirect
 )

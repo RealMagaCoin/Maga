@@ -22,9 +22,9 @@ import "github.com/RealMagaCoin/Maga/common"
 // the main Ethereum network.
 var MainnetBootnodes = []string{
 	// Magacoin Go Bootnodes
-	"", // bootnode-1
-	"",  // bootnode-2
-	"",  // bootnode-3
+	"enode://d04ce95948115b26dd6023ba6d9d85cb5621de7fcc777f5d0a5866cccc1a4adfed33a031c45c89940ed50d84f49e98941233590357ea5897c0e5249c061ca0db@44.229.184.250:30303", // bootnode-1
+	"enode://75045dacd00a35da8ad223d4599eaeda552c4f7bf7d85e0ce0e08cc250ee55fc1e58a95ce2797eb4d719cba08d7a3aec465f4b77883225f8c37c080b499d0e56@44.196.63.170:30303",  // bootnode-2
+	"enode://7dcc0bf53e6bc9f315e817094de918890a15d1699fef8f97141e91df37f115a47678ea19300537cc682d66c68de311e0a4a8d2d4126420ab27f37368ab38194a@18.188.141.45:30303",  // bootnode-3
 }
 
 // RopstenBootnodes are the enode URLs of the P2P bootstrap nodes running on the

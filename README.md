@@ -42,9 +42,9 @@ source ~/.profile
 
 ### Install Go
 ```shell
-wget https://go.dev/dl/go1.18.7.linux-amd64.tar.gz
-sudo tar -xvf go1.18.7.linux-amd64.tar.gz
-sudo mv go /usr/local && rm go1.18.7.linux-amd64.tar.gz
+wget https://go.dev/dl/go1.20.8.linux-amd64.tar.gz
+sudo tar -xvf go1.20.8.linux-amd64.tar.gz
+sudo mv go /usr/local && rm go1.20.8.linux-amd64.tar.gz
 ```
 Check that it's installed
 ```shell
@@ -52,7 +52,7 @@ go version
 ```
 You should see something like this:
 ```shell
-go version go1.18.7 linux/amd64
+go version go1.20.8 linux/amd64
 ```
 
 Once the dependencies are installed, run

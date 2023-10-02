@@ -18,14 +18,12 @@ Official Golang execution layer implementation of the Magacoin protocol.
 * Website - https://realmagacoin.com
 * Main Explorer - https://magascan.com
 * Test Explorer - https://testnet.magascan.com
-* Twitter - https://twitter.com/gomagacoin
-* Telegram - https://t.me/gomagacoin
 
 
 ## Building from source Ubuntu 20.04
 
-Building `geth` requires both a Go (version 1.18 or later) and a C compiler. You can install
-them using your favourite package manager. 
+Building `geth` requires both a Go (version 1.19 or later) and a C compiler. You can install
+them using your favorite package manager. 
 
 ### Setup Go Path
 ```shell

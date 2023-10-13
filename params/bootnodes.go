@@ -22,9 +22,9 @@ import "github.com/RealMagaCoin/Maga/common"
 // the main Magacoin network.
 var MainnetBootnodes = []string{
 	// Magacoin Foundation Go Bootnodes
-	"enode://7ae52c9ba013d7b6f5a14d836bf19bf96a943e87cf59cbfb8728926779c78473d3e9dcce03e4f33568281d2933dbb091acaac846640ec5aa4192cf57856c1e43@44.229.184.250:30303", // Bootnode 1
-	"enode://75045dacd00a35da8ad223d4599eaeda552c4f7bf7d85e0ce0e08cc250ee55fc1e58a95ce2797eb4d719cba08d7a3aec465f4b77883225f8c37c080b499d0e56@44.196.63.170:30303",  // Bootnode 2
-	"enode://44da88aed1149723f09752872d60ed985b92684b3994cfde75247fb84290807caddc7fc60c686b7dbb133de9a54870e294c293e113e4bcfb151b7a058d453b7b@44.196.63.170:30304",  // Bootnode 3
+	"", // Bootnode 1
+	"", // Bootnode 2
+	"", // Bootnode 3
 }
 
 // SepoliaBootnodes are the enode URLs of the P2P bootstrap nodes running on the

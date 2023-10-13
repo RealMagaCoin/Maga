@@ -3,7 +3,7 @@
 Official Golang execution layer implementation of the Magacoin protocol.
 
 **Chain Specs**
-* Native Token Name - Magacoin
+* Name - Magacoin
 * Symbol - MAGA
 * Max Supply - 100 Million
 * Block Reward - 2 MAGA
